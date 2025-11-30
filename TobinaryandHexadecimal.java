@@ -30,5 +30,6 @@ public class TobinaryandHexadecimal {
 
         System.out.println("Decimal number to binary is :"+binary);
         System.out.println("Decimal to HexaDecimal is :" + Hexadecimal);
+        sc.close();
     }
 }

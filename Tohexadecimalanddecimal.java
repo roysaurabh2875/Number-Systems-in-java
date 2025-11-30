@@ -26,5 +26,6 @@ public class Tohexadecimalanddecimal {
             decimal /= 16 ;
         }
         System.out.println("Hexadecimal number is :"+hex);
+        sc.close();
     }
 }

@@ -33,5 +33,6 @@ public class Tobinaryanddecimal {
             decimal /= 2 ;
         }
         System.out.println("binary number is :"+binary);
+        sc.close();
     }
 }

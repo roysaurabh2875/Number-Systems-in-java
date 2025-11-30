@@ -29,5 +29,6 @@ public class DecimaltoBinary {
         }
         String binary = binaryInt + "." + binaryFrac ;
         System.out.println("The binary number is :"+binary);
+        sc.close();
     }
 }
